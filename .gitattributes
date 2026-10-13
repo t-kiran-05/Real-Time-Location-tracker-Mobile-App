@@ -1,0 +1,6 @@
+# Treat PNG and binary assets as binary to prevent CRLF conversions
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
